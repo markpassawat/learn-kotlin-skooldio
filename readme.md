@@ -1,0 +1,1 @@
+This repository is a byproduct of my learning process. I am learning to code in Kotlin with [Getting Started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin)
